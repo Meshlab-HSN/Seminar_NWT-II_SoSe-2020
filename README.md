@@ -17,7 +17,7 @@ To create, configure, run and troubleshoot different network experiments a virtu
 
 ### How to get startet with OpenWrt ?
 
-As a initial starting point, the provided OpenWrt VM is based on VirtualBox and will be extended to other VM formats in the future.
+As a initial starting point, the provided OpenWrt VM is based on VirtualBox and will be extended to other VM formats in the future. The Openwrt Linux is based on OpenWrt trunk x86_64 target.
 
 ## Useage of the precompiled OpenWrt VirtualBox Appliance
 
@@ -31,5 +31,5 @@ As a initial starting point, the provided OpenWrt VM is based on VirtualBox and 
 
 1. Prerequisite: Get an OpenWrt build environment on your local machine (https://openwrt.org/docs/guide-developer/build-system/install-buildsystem)
 2. Chekout current OpenWrt trunk to your local machine
-2. Copy the OpenWrt config from ./source/.Config into your OpenWrt env
+2. Copy the OpenWrt config from ./source/.config into your OpenWrt env
 3. Start cross compiling your OpenWrt: 'make'
