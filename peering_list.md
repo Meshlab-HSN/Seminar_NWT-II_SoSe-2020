@@ -1,7 +1,7 @@
 Nickname | FQDN der OpenWrt VM (dyndns domain) | 
 ------------ | -------------
 Evernet | evernet-kihei.dedyn.io
-Lars Gebken | kenny.sytes.net
+Lars Gebken | kenny0.ddns.de
 Niklas Mäder | mniklas19.ddnss.de
 Niklas Häger  | niklash.goip.de
 Fabian Heydecke | nwtp.spdns.org
