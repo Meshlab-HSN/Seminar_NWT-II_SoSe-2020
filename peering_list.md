@@ -1,4 +1,4 @@
-First Header | Second Header
+Nickname | FQDN der OpenWrt VM (dyndns domain) | 
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+Evernet | evernet-kihei.dedyn.io
+
