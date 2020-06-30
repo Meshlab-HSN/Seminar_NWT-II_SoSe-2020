@@ -1,4 +1,4 @@
-Nickname | [FQDN][1] of your OpenWrt VM <br> *(your dyndns domain)* | Am I behind a CG-NAT ? <br> *(check from OpenWrt terminal <sup id="a1">[1](#f1)</sup>)* | Public-Key of your WireGuard peer <br> *(DO NOT PUT YOUR PRIVATE KEY HERE!)*
+Nickname | [FQDN][1] of your OpenWrt VM <br> *(your dyndns domain)* | Am I behind a CG-NAT ? <br> *(Test your IP <sup id="a1">[1](#f1)</sup>)* | Public-Key of your WireGuard peer <br> *(DO NOT PUT YOUR PRIVATE KEY HERE!)*
 --------------- | :---------------------: | :-------: | :---------------------------------------------:
 MeshLab Server  | evernet-kihei.dedyn.io  | `no`      | `iTa3sr8lIu7UXQIB/l2szLQtC7z0dA8eQUMRPIvtqmw=`
 Lars Gebken     | kenny0.ddns.de          | `yes/no`  |
