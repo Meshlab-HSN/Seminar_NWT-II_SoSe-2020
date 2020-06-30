@@ -10,6 +10,6 @@ Fabian Heydecke | nwtp.spdns.org          | `yes/no`  |
 <br>
 <br>
 
-<b id="f1">1</b> To check weather your ISP puts your behind a [CG-NAT](https://en.wikipedia.org/wiki/Carrier-grade_NAT) with changing public IP's, run: <br>`curl ipecho.net/plain -w "\n"; curl ifconfig.me/ip -w "\n"; curl ident.me -w "\n"` <br> from your OpenWrt command line. If your the three IPs differ, you got probably CG-NATed [↩](#a1)
+<b id="f1">1</b> To check weather your ISP puts your behind a [CG-NAT](https://en.wikipedia.org/wiki/Carrier-grade_NAT) with changing public IP's, run: <br>`curl ipecho.net/plain -w "\n"; curl ifconfig.me/ip -w "\n"; curl ident.me -w "\n"` <br> from your OpenWrt terminal. If your the three IPs differ, you got probably CG-NATed [↩](#a1)
 
 [1]: https://en.wikipedia.org/wiki/Fully_qualified_domain_name
