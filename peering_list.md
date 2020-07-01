@@ -1,18 +1,19 @@
 Nickname | [FQDN][1] of your OpenWrt VM <br> *(your dyndns domain)* | Am I behind a [CG-NAT][2]? <br> *(Test your IP <sup id="a1">[1](#f1)</sup>)* | Public-Key of your [WireGuard][3] peer <br> *(DO NOT PUT YOUR PRIVATE KEY HERE!)* | Your chosen Wireguard tunnel IPv4 <br> from range 10.10.222.0/24 | Is your Wiregurad peer configured on the MeshLab server side?
 --------------- | :---------------------: | :-------: | :---------------------------------------------: | :--------------:  | :-----------:
-MeshLab Server  | evernet-kihei.dedyn.io  | `no`      | `iTa3sr8lIu7UXQIB/l2szLQtC7z0dA8eQUMRPIvtqmw=`  | 10.10.222.1/24    |
+MeshLab Server  | evernet-kihei.dedyn.io  | `no`      | `iTa3sr8lIu7UXQIB/l2szLQtC7z0dA8eQUMRPIvtqmw=`  | 10.10.222.1/24    | done, you can test the VPN <sup id="a1">[2](#f2)</sup>)
 Lars Gebken     | kenny0.ddns.de          | `yes/no`  |                                                 |                   |
 Niklas Mäder    | mniklas19.ddnss.de      | `yes/no`  |                                                 |                   |
-Niklas Häger    | niklash.ddnss.de        | `yes/no`  |                                                 |                   |
+Niklas Häger    | niklash.ddnss.de        | `no`      | `7zDBt3V7ip/T5GSu4vHej6JOcDXoP8GnKbCFblcidBo=`  | 10.10.222.10/24   |
 Fabian Heydecke | nwtp.spdns.org          | `yes/no`  |                                                 |                   |
 Jonas Jelonek   | meshlab484.spdns.org    | `no`      | `hot7ThrzP1MV8nlfgrTMuep7zMrOOcGaLjTPrsFI5xA=`  | 10.10.222.48/24   | done, you can test the VPN <sup id="a1">[2](#f2)</sup>)
 Benedikt Streicher | bstreicher.ddnss.eu  | `no`      | `EeEcwSzW5xIlqILEBpgjGffcCcWjn2P+npo7wUjNGjQ=`  | 10.10.222.50/24   | done, you can test the VPN <sup id="a1">[2](#f2)</sup>)
 Paul Schreiber  | meshlab.schreiber-p.de  | `no`      | `oXc+CvulGlVYVynvIAbipWchnzBJGsJ8f7OgglM5jBs=`  | 10.10.222.55/32   | done, you can test the VPN <sup id="a1">[2](#f2)</sup>)
-LarryAn         | thatismy.ddnss.de       | 'yes/no'  |                                                 |                   |
-Vivi Probst     | vprobst.twn.de          | `yes `    |                                                 |                   |
+LarryAn         | thatismy.ddnss.de       | `no`      |                                                 |                   |
+Vivi Probst     | vprobst.twn.de          | `yes`     |                                                 |                   |
 Felix Römhild   | froemhild.ddnss.de      | `yes/no`  |                                                 |                   |
-Nicolas Emerson | botw.selfhost.co        | `no`      |                                                 |                   |
 Volker Johannes Luhn | hannesjo22         | `no`      |                                                 |                   |  
+Nicolas Emerson | botw.selfhost.co        | `no`      | `s3afISXCq0XC4MLRMkIa0ZZwEKJYgGoQhRACh2hXpWU=`  | 10.10.222.43/24   | done, you can test the VPN <sup id="a1">[2](#f2)</sup>)
+
 
 <br>
 <br>
