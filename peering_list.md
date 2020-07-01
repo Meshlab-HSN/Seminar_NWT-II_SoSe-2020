@@ -11,7 +11,7 @@ Paul Schreiber  | meshlab.schreiber-p.de  | `no`      | `oXc+CvulGlVYVynvIAbipWc
 LarryAn         | thatismy.ddnss.de       | 'yes/no'  |                                                 |                   |
 Vivi Probst     | vprobst.twn.de          | `yes `    |                                                 |                   |
 Felix Römhild   | froemhild.ddnss.de      | `yes/no`  |                                                 |                   |
-Nicolas Emerson | botw.selfhost.co        | `no`      |                                                 |                   |
+Nicolas Emerson | botw.selfhost.co        | `no`      | `s3afISXCq0XC4MLRMkIa0ZZwEKJYgGoQhRACh2hXpWU=`  | 10.10.222.43/24   |                                           |                   |
 
 <br>
 <br>
