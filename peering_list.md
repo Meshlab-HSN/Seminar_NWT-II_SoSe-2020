@@ -1,10 +1,11 @@
-Nickname | [FQDN][1] of your OpenWrt VM <br> *(your dyndns domain)* | Am I behind a [CG-NAT][2]? <br> *(Test your IP <sup id="a1">[1](#f1)</sup>)* | Public-Key of your [WireGuard][3] peer <br> *(DO NOT PUT YOUR PRIVATE KEY HERE!)*
---------------- | :---------------------: | :-------: | :---------------------------------------------:
-MeshLab Server  | evernet-kihei.dedyn.io  | `no`      | `iTa3sr8lIu7UXQIB/l2szLQtC7z0dA8eQUMRPIvtqmw=`
-Lars Gebken     | kenny0.ddns.de          | `yes/no`  |
-Niklas Mäder    | mniklas19.ddnss.de      | `yes/no`  |
-Niklas Häger    | niklash.ddnss.de        | `yes/no`  |
-Fabian Heydecke | nwtp.spdns.org          | `yes/no`  |
+Nickname | [FQDN][1] of your OpenWrt VM <br> *(your dyndns domain)* | Am I behind a [CG-NAT][2]? <br> *(Test your IP <sup id="a1">[1](#f1)</sup>)* | Public-Key of your [WireGuard][3] peer <br> *(DO NOT PUT YOUR PRIVATE KEY HERE!)* | Chosen ip address in range 10.10.222.0/24
+--------------- | :---------------------: | :-------: | :---------------------------------------------: | :--------------:
+MeshLab Server  | evernet-kihei.dedyn.io  | `no`      | `iTa3sr8lIu7UXQIB/l2szLQtC7z0dA8eQUMRPIvtqmw=`  |
+Lars Gebken     | kenny0.ddns.de          | `yes/no`  |                                                 |
+Niklas Mäder    | mniklas19.ddnss.de      | `yes/no`  |                                                 |
+Niklas Häger    | niklash.ddnss.de        | `yes/no`  |                                                 |
+Fabian Heydecke | nwtp.spdns.org          | `yes/no`  |                                                 |
+Jonas Jelonek   | meshlab484.spdns.org    | `no`      | `hot7ThrzP1MV8nlfgrTMuep7zMrOOcGaLjTPrsFI5xA=`  | 10.10.222.48/24
 
 
 <br>
