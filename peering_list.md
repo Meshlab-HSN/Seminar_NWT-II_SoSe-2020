@@ -10,7 +10,7 @@ Benedikt Streicher | bstreicher.ddnss.eu  | `no`      | `EeEcwSzW5xIlqILEBpgjGff
 Paul Schreiber  | meshlab.schreiber-p.de  | `no`  | `oXc+CvulGlVYVynvIAbipWchnzBJGsJ8f7OgglM5jBs=`  | 10.10.222.55/32
 LarryAn         | thatismy.ddnss.de       | 'yes/no'
 Vivi Probst     | vprobst.twn.de          | `yes `    |                                                 | 
-
+Felix Römhild   | froemhild.ddnss.de      | `yes/no`  |                                                 |                 
 
 
 <br>
