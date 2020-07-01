@@ -9,7 +9,7 @@ Jonas Jelonek   | meshlab484.spdns.org    | `no`      | `hot7ThrzP1MV8nlfgrTMuep
 Benedikt Streicher | bstreicher.ddnss.eu  | `no`      | `EeEcwSzW5xIlqILEBpgjGffcCcWjn2P+npo7wUjNGjQ=`  | 10.10.222.50/24
 Paul Schreiber  | meshlab.schreiber-p.de  | `yes/no`  | `oXc+CvulGlVYVynvIAbipWchnzBJGsJ8f7OgglM5jBs=`  | 
 Vivi Probst     | vprobst.twn.de          | `yes `    |                                                 | 
-
+Felix Römhild   | froemhild.ddnss.de      | `yes/no`  |                                                 |                 
 <br>
 <br>
 
