@@ -6,6 +6,7 @@ Niklas Mäder    | mniklas19.ddnss.de      | `yes/no`  |                        
 Niklas Häger    | niklash.ddnss.de        | `yes/no`  |                                                 |
 Fabian Heydecke | nwtp.spdns.org          | `yes/no`  |                                                 |
 Jonas Jelonek   | meshlab484.spdns.org    | `no`      | `hot7ThrzP1MV8nlfgrTMuep7zMrOOcGaLjTPrsFI5xA=`  | 10.10.222.48/24
+Benedikt Streicher | bstreicher.ddnss.eu  | `no`      | `EeEcwSzW5xIlqILEBpgjGffcCcWjn2P+npo7wUjNGjQ=`  | 10.10.222.50/24
 
 
 <br>
