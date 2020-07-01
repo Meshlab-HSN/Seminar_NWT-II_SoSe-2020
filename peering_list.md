@@ -3,7 +3,7 @@ Nickname | [FQDN][1] of your OpenWrt VM <br> *(your dyndns domain)* | Am I behin
 MeshLab Server  | evernet-kihei.dedyn.io  | `no`      | `iTa3sr8lIu7UXQIB/l2szLQtC7z0dA8eQUMRPIvtqmw=`  | 10.10.222.1/24    |
 Lars Gebken     | kenny0.ddns.de          | `yes/no`  |                                                 |                   |
 Niklas Mäder    | mniklas19.ddnss.de      | `yes/no`  |                                                 |                   |
-Niklas Häger    | niklash.ddnss.de        | `yes/no`  |                                                 |                   |
+Niklas Häger    | niklash.ddnss.de        | `no`      |                                                 |                   |
 Fabian Heydecke | nwtp.spdns.org          | `yes/no`  |                                                 |                   |
 Jonas Jelonek   | meshlab484.spdns.org    | `no`      | `hot7ThrzP1MV8nlfgrTMuep7zMrOOcGaLjTPrsFI5xA=`  | 10.10.222.48/24   | done, you can test the VPN <sup id="a1">[2](#f2)</sup>)
 Benedikt Streicher | bstreicher.ddnss.eu  | `no`      | `EeEcwSzW5xIlqILEBpgjGffcCcWjn2P+npo7wUjNGjQ=`  | 10.10.222.50/24   | done, you can test the VPN <sup id="a1">[2](#f2)</sup>)
