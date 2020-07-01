@@ -12,6 +12,7 @@ LarryAn         | thatismy.ddnss.de       | 'yes/no'  |                         
 Vivi Probst     | vprobst.twn.de          | `yes `    |                                                 |                   |
 Felix Römhild   | froemhild.ddnss.de      | `yes/no`  |                                                 |                   |
 Nicolas Emerson | botw.selfhost.co        | `no`      |                                                 |                   |
+Volker Johannes Luhn | hannesjo22         | `no`      |                                                 |                   |  
 
 <br>
 <br>
