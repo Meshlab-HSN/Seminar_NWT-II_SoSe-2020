@@ -6,7 +6,7 @@ Niklas Mäder    | mniklas19.ddnss.de      | `yes/no`  |                        
 Niklas Häger    | niklash.ddnss.de        | `yes/no`  |                                                 |
 Fabian Heydecke | nwtp.spdns.org          | `yes/no`  |                                                 |
 Jonas Jelonek   | meshlab484.spdns.org    | `no`      | `hot7ThrzP1MV8nlfgrTMuep7zMrOOcGaLjTPrsFI5xA=`  | 10.10.222.48/24
-Nicolas Emerson | botw.selfhost.co        | ` 
+Nicolas Emerson | botw.selfhost.co        | `no`   
 
 <br>
 <br>
