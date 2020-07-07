@@ -8,7 +8,7 @@ Niklas Häger    | niklash.ddnss.de        | `no`      | `7zDBt3V7ip/T5GSu4vHej6
 Jonas Jelonek   | meshlab484.spdns.org    | `no`      | `hot7ThrzP1MV8nlfgrTMuep7zMrOOcGaLjTPrsFI5xA=`  | 10.10.222.48/24   | done, you can test the VPN <sup id="a1">[2](#f2)</sup>)
 Benedikt Streicher | bstreicher.ddnss.eu  | `no`      | `EeEcwSzW5xIlqILEBpgjGffcCcWjn2P+npo7wUjNGjQ=`  | 10.10.222.50/24   | done, you can test the VPN <sup id="a1">[2](#f2)</sup>)
 Paul Schreiber  | meshlab.schreiber-p.de  | `no`      | `oXc+CvulGlVYVynvIAbipWchnzBJGsJ8f7OgglM5jBs=`  | 10.10.222.55/32   | done, you can test the VPN <sup id="a1">[2](#f2)</sup>)
-LarryAn         | thatismy.ddnss.de       | `no`      | `gnININRNRXpl3g+QMij3ksxz2497WXBto3+rS/JCGgs=`  | 10.10.222.2/24    |
+LarryAn         | thatismy.ddnss.de       | `no`      | `gnININRNRXpl3g+QMij3ksxz2497WXBto3+rS/JCGgs=`  | 10.10.222.2/24    | done, you can test the VPN <sup id="a1">[2](#f2)</sup>)
 Vivi Probst     | vprobst.twn.de          | `yes`     |                                                 |                   |
 Felix Römhild   | froemhild.ddnss.de      | `yes/no`  |                                                 |                   |
 Volker Johannes Luhn | hannesjo22         | `no`      |                                                 |                   |  
