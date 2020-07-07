@@ -4,7 +4,7 @@ MeshLab Server  | evernet-kihei.dedyn.io  | `no`      | `iTa3sr8lIu7UXQIB/l2szLQ
 Lars Gebken     | kenny0.ddns.de          | `yes/no`  |                                                 |                   |
 Niklas Mäder    | mniklas19.ddnss.de      | `yes/no`  |                                                 |                   |
 Fabian Heydecke | nwtp.spdns.org          | `yes`     |  zZ4PNBggzwNRJZmyvDgGUyTJ23zWW6unpFGO1SjCdGs=   | 10.10.222.3/24    | done, you can test the VPN <sup id="a1">[2](#f2)</sup>)
-Niklas Häger    | niklash.ddnss.de        | `no`      | `7zDBt3V7ip/T5GSu4vHej6JOcDXoP8GnKbCFblcidBo=`  | 10.10.222.10/24   | done, you can test the VPN <sup id="a1">[2](#f2)</sup>)
+Niklas Häger    | niklash.ddnss.de        | `no`      | `H6PNrm9Nw5GoegRyzZuAQ9fejPFOGP4hAXSeeBWNnGY=`  | 10.10.222.10/24   | done, you can test the VPN <sup id="a1">[2](#f2)</sup>)
 Jonas Jelonek   | meshlab484.spdns.org    | `no`      | `hot7ThrzP1MV8nlfgrTMuep7zMrOOcGaLjTPrsFI5xA=`  | 10.10.222.48/24   | done, you can test the VPN <sup id="a1">[2](#f2)</sup>)
 Benedikt Streicher | bstreicher.ddnss.eu  | `no`      | `EeEcwSzW5xIlqILEBpgjGffcCcWjn2P+npo7wUjNGjQ=`  | 10.10.222.50/24   | done, you can test the VPN <sup id="a1">[2](#f2)</sup>)
 Paul Schreiber  | meshlab.schreiber-p.de  | `no`      | `oXc+CvulGlVYVynvIAbipWchnzBJGsJ8f7OgglM5jBs=`  | 10.10.222.55/32   | done, you can test the VPN <sup id="a1">[2](#f2)</sup>)
