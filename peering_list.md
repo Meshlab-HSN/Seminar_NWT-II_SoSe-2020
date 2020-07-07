@@ -10,7 +10,7 @@ Benedikt Streicher | bstreicher.ddnss.eu  | `no`      | `EeEcwSzW5xIlqILEBpgjGff
 Paul Schreiber  | meshlab.schreiber-p.de  | `no`      | `oXc+CvulGlVYVynvIAbipWchnzBJGsJ8f7OgglM5jBs=`  | 10.10.222.55/32   | done, you can test the VPN <sup id="a1">[2](#f2)</sup>)
 LarryAn         | thatismy.ddnss.de       | `no`      | `gnININRNRXpl3g+QMij3ksxz2497WXBto3+rS/JCGgs=`  | 10.10.222.2/24    | done, you can test the VPN <sup id="a1">[2](#f2)</sup>)
 Vivi Probst     | vprobst.twn.de          | `yes`     |                                                 |                   |
-Felix Römhild   | froemhild.ddnss.de      | `yes/no`  |                                                 |                   |
+Felix Römhild   | froemhild.ddnss.de      | `no`      | `FmzNwgkdfWFUvP/xvRF7nhKVFLUunA+8pXxsqejwGko=`  |10.10.222.2/24     |
 Volker Johannes Luhn | hannesjo22         | `no`      |                                                 |                   |  
 Nicolas Emerson | botw.selfhost.co        | `no`      | `s3afISXCq0XC4MLRMkIa0ZZwEKJYgGoQhRACh2hXpWU=`  | 10.10.222.43/24   | done, you can test the VPN <sup id="a1">[2](#f2)</sup>)
 
