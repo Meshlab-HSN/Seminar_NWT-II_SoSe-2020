@@ -1,7 +1,7 @@
 Nickname | [FQDN][1] of your OpenWrt VM <br> *(your dyndns domain)* | Am I behind a [CG-NAT][2]? <br> *(Test your IP <sup id="a1">[1](#f1)</sup>)* | Public-Key of your [WireGuard][3] peer <br> *(DO NOT PUT YOUR PRIVATE KEY HERE!)* | Your chosen Wireguard tunnel IPv4 <br> from range 10.10.222.0/24 | Is your Wiregurad peer configured on the MeshLab server side?
 --------------- | :---------------------: | :-------: | :---------------------------------------------: | :--------------:  | :-----------:
 MeshLab Server  | evernet-kihei.dedyn.io  | `no`      | `iTa3sr8lIu7UXQIB/l2szLQtC7z0dA8eQUMRPIvtqmw=`  | 10.10.222.1/24    | done, you can test the VPN <sup id="a1">[2](#f2)</sup>)
-Lars Gebken     | kenny0.ddns.de          | `yes/no`  |                                                 |                   |
+Lars Gebken     | kenny0.ddns.de          | `no`  |   iTa3sr8lIu7UXQIB/l2szLQtC7z0dA8eQUMRPIvtqmw=  | 10.10.222.1/24    |
 Niklas Mäder    | mniklas19.ddnss.de      | `yes/no`  |  SngN4zve08emAgHM5aU7NhYD6/Nkc0Br19Ka5MbR31Y=   | 10.10.222.111/24  |
 Fabian Heydecke | nwtp.spdns.org          | `yes`     |  zZ4PNBggzwNRJZmyvDgGUyTJ23zWW6unpFGO1SjCdGs=   | 10.10.222.3/24    | done, you can test the VPN <sup id="a1">[2](#f2)</sup>)
 Niklas Häger    | niklash.ddnss.de        | `no`      | `H6PNrm9Nw5GoegRyzZuAQ9fejPFOGP4hAXSeeBWNnGY=`  | 10.10.222.10/24   | done, you can test the VPN <sup id="a1">[2](#f2)</sup>)
